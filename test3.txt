@@ -1,3 +1,0 @@
-merged file
-test 3 for master duplicate- from master
-test3 - this file is to be deleted - from branch

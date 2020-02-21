@@ -1,1 +1,3 @@
 f1 - this is file 1
+f1 - first changes made to file 1
+f1 - second changes made to file 1

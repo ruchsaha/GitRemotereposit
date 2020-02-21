@@ -1,5 +1,0 @@
-test2 - this is first line of second test file
-test2 - file has been edited, count 1
-test2 - file has been edited. count 2
-
-test2 - file has been edited, count 3
